@@ -7,7 +7,5 @@ Desafio Basicão de Java
 
 3 - executar a classe pelo cmd
 
-![./ProofOne.png](Java configurado no path do Windows)
-
-![./ProofTwo.png](Classe executada pelo cmd)
-
+![Proof One](ProofOne.png)
+Format: ![Alt Text](url)
